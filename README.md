@@ -1,4 +1,4 @@
-# TvorcheskieRaboti
+# TvorcheskayaRabota
 
 Творческие работы студента группы ИВТ-21-1б Гребнева Алексея
 
