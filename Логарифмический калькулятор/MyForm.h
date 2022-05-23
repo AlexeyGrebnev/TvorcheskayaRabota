@@ -644,13 +644,13 @@ private: System::Void comboBox1_SelectedIndexChanged(System::Object^ sender, Sys
 	switch(comboBox1->SelectedIndex)
 	{
 	case 0:
-		if(textBox3->Text->Length == 0 && textBox6->Text->Length == 0) MessageBox::Show("Результаты двух логарифмов не найдены! ");//Вывод ошибки 
+		if(textBox3->Text->Length == 0 || textBox6->Text->Length == 0) MessageBox::Show("Результаты двух логарифмов не найдены! ");//Вывод ошибки 
 
 		else textBox7->Text = Convert::ToString(Convert::ToDouble(textBox3->Text) + Convert::ToDouble(textBox6->Text)); //Сложение логарифмов
 		break;
 
 	case 1:
-		if (textBox3->Text->Length == 0 && textBox6->Text->Length == 0) MessageBox::Show("Результаты двух логарифмов не найдены! ");//Вывод ошибки 
+		if (textBox3->Text->Length == 0 || textBox6->Text->Length == 0) MessageBox::Show("Результаты двух логарифмов не найдены! ");//Вывод ошибки 
 		
 		else textBox7->Text = Convert::ToString(Convert::ToDouble(textBox3->Text) - Convert::ToDouble(textBox6->Text));//Вычитание логарифмов
 	}
