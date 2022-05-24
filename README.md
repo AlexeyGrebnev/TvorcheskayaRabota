@@ -14,6 +14,8 @@
 ![image](https://user-images.githubusercontent.com/90623727/169985434-ca5beac7-8412-4175-be4b-b41a3eab0961.png)
 
 в)Во вкладке "Отдельные компоненты" скачиваем следующие пункты
+
+
 ![image](https://user-images.githubusercontent.com/90623727/169985926-9e957a59-0a1b-4ae8-8969-bdd1361b0717.png)
 
 г)После установки переходим обратно к этапу "Создание проекта" и выбираем
