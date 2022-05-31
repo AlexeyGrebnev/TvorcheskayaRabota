@@ -1,0 +1,30 @@
+﻿  Graph.cpp
+c:\c++\sfml\sfml\graph.cpp(44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\c++\sfml\sfml\graph.cpp(45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\c++\sfml\sfml\graph.cpp(55): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\c++\sfml\sfml\graph.cpp(56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\c++\sfml\sfml\graph.cpp(66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\c++\sfml\sfml\graph.cpp(71): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\c++\sfml\sfml\graph.cpp(76): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\c++\sfml\sfml\graph.cpp(131): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\c++\sfml\sfml\graph.cpp(132): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\c++\sfml\sfml\graph.cpp(138): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\c++\sfml\sfml\graph.cpp(144): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\c++\sfml\sfml\graph.cpp(146): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\c++\sfml\sfml\graph.cpp(148): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\c++\sfml\sfml\graph.cpp(150): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\c++\sfml\sfml\graph.cpp(494): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\c++\sfml\sfml\graph.cpp(536): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  SFML.vcxproj -> C:\c++\SFML\x64\Debug\SFML.exe
